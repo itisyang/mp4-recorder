@@ -1,7 +1,9 @@
+//
+//usage of Mp4Recorder while receive stream
+// Created by itisyang.
+//
 
 #include "Mp4Recorder.h"
-
-//usage of Mp4Recorder while receive stream
 
 class STREAM_THREAD : public QThread
 {
