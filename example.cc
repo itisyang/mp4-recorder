@@ -1,6 +1,7 @@
 
 #include "Mp4Recorder.h"
 
+//usage of Mp4Recorder while receive stream
 
 class STREAM_THREAD : public QThread
 {
@@ -13,7 +14,8 @@ public:
     int videoHeight;		//视频高
     int frameRatio;         //视频帧率
     const QString VIDEO_PATH = "/temp/video/";
-	//TODO......define other para/fun
+
+	//TODO......define other para/fun for receive stream etc..
 }
 
 void STREAM_THREAD::startRecord()
