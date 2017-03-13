@@ -1,5 +1,5 @@
 //
-// MP4录像类，用于H264原码流进行mp4输出
+// MP4录像类，用于H264+pcm流进行mp4输出
 // Created by itisyang.
 //
 

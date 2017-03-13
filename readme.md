@@ -12,8 +12,9 @@
 
 
 ### 模块
-
-- Decoder
-- FFmpegPlayer
-- libfdk-aacenc
+- libmp4v2
+    > https://code.google.com/archive/p/mp4v2/
+- libfdk-aac
+    > https://sourceforge.net/projects/opencore-amr/files/fdk-aac/
 - Mp4Recorder
+    > class of MP4 recorder
