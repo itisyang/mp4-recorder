@@ -6,7 +6,7 @@
 
 ## modules
 #### Mp4Recorder
-> class of MP4 recorder
+> class of mp4 recorder
 
 #### libmp4v2
 > https://code.google.com/archive/p/mp4v2/
